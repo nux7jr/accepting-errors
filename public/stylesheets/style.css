@@ -6,3 +6,12 @@ body {
 a {
   color: #00B7FF;
 }
+
+form {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  background-color: rgba(0, 0, 0, 0.115);
+  padding: 30px;
+  border-radius: 10px;
+}
